@@ -28,7 +28,4 @@ This project is a comprehensive sales performance and geographical analysis dash
 * **Growth Trajectory:** Yearly trends illustrate steady revenue progression across the operational timeframe.
 
 ---
-*Created with ❤️ by **Alaa Abdelhalim Abdelraouf Attia** | Data Analyst*
-
----
 *Created with ❤️ by Alaa Abdelhalim Abdelraouf Attia, a passionate Data Analyst.*
